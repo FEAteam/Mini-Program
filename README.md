@@ -100,3 +100,6 @@
 #### [交互弹层](https://developers.weixin.qq.com/miniprogram/dev/api/api-react.html#wxhideloading)
 
 #### [代码结构及说明](https://developers.weixin.qq.com/miniprogram/dev/quickstart/basic/file.html)
+
+## 更多小程序开发资源
+[https://github.com/PCAaron/awesome-wechat-weapp](https://github.com/PCAaron/awesome-wechat-weapp)
