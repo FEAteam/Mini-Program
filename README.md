@@ -27,7 +27,7 @@
 ### 小程序社区（官方社区）
 [官方社区](https://developers.weixin.qq.com/)
 
-## 小程序实战（以个人小程序为例）
+## 小程序实战（以个人小程序为例，企业级开发可直接跳转到开发工具下载开始看起）
 
 ### 小程序注册
 > 1. 先进行小程序注册：[https://mp.weixin.qq.com/wxopen/waregister?action=step1](https://mp.weixin.qq.com/wxopen/waregister?action=step1)
