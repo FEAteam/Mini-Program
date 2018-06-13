@@ -102,6 +102,11 @@
 ![设置上拉/下拉](images/xcx14.png)
 ![json配置](images/xcx15.png)
 
+### 过滤器filter的构造
+> 很多情况下，接口返回来的数据需要我们处理，但是，在被列表一层层包着的情况下，对数据的处理就比较大工程了。所以我们需要引用[wxs](https://developers.weixin.qq.com/miniprogram/dev/framework/view/wxs/)进行对数据的重新构建。当然，除了这种方法还是其他方法，可自行百度。
+![引入wxs](images/xcx19.png)
+![wxs方法](images/xcx20.png)
+
 ### 更多
 
 #### [数据渲染](https://developers.weixin.qq.com/miniprogram/dev/framework/view/wxml/)
