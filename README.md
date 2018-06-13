@@ -107,6 +107,11 @@
 ![引入wxs](images/xcx19.png)
 ![wxs方法](images/xcx20.png)
 
+### 获取输入框的值
+> 就像我之前所说的，小程序没有DOM的概念，所以在获取输入框的值的时候，我们也是通过数据绑定的方式获取的。
+![绑定事件](images/xcx21.png)
+![获取数据](images/xcx22.png)
+
 ### 更多
 
 #### [数据渲染](https://developers.weixin.qq.com/miniprogram/dev/framework/view/wxml/)
