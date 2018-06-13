@@ -73,6 +73,15 @@
 
 ## 常用功能总结
 
+### 设置数据
+> 通过setData进行数据的设置
+![设置数据](images/xcx16.png)
+
+### 绑定事件
+> 由于小程序没有DOM的概念，都是数据驱动的，所以在执行[事件](https://developers.weixin.qq.com/miniprogram/dev/framework/view/wxml/event.html)(一般的点击事件bindtap即可)时需要携带参数时我们可以通过设置自定义属性(data-xx)来获取相应的参数
+![渲染页面](images/xcx17.png)
+![逻辑执行](images/xcx18.png)
+
 ### 页面跳转
 >1. [wx.navigateTo(OBJECT)](https://developers.weixin.qq.com/miniprogram/dev/api/ui-navigate.html#wxnavigatetoobject)：保留当前页面，跳转到应用内的某个页面，使用wx.navigateBack可以返回到原页面。
 
