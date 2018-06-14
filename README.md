@@ -82,6 +82,9 @@
 ![渲染页面](images/xcx17.png)
 ![逻辑执行](images/xcx18.png)
 
+### swiper组件（常用做实现banner轮播，左右滑动等）
+> [swiper](https://developers.weixin.qq.com/miniprogram/dev/component/swiper.html)，官网解释及demo更详细，我就不上代码了。
+
 ### 页面跳转
 >1. [wx.navigateTo(OBJECT)](https://developers.weixin.qq.com/miniprogram/dev/api/ui-navigate.html#wxnavigatetoobject)：保留当前页面，跳转到应用内的某个页面，使用wx.navigateBack可以返回到原页面。
 
